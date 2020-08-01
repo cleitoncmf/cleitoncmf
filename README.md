@@ -1,5 +1,5 @@
 
-[![Header](banner1.png "Header")](http://www.eng.uerj.br/deptos/mostra_prof.php?id=338&print=1)
+[![Header](banner2.png "Header")](http://www.eng.uerj.br/deptos/mostra_prof.php?id=338&print=1)
 
 
 
