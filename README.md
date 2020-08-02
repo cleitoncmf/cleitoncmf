@@ -58,20 +58,37 @@
 My name is Cleiton Magalhães Freitas and I am a Professor at the Electrical Engineering Department of the State University of Rio de Janeiro [UERJ](https://www.uerj.br/) in Brazil. My research interests span over several branches of power electronics and power systems and, of course, this profile might be filled with codes related to them. 
 
 
+<br />
+
+
+<h2> About me </h2>
+
+* <img height="32em" align="center" src="https://img.icons8.com/carbon-copy/100/000000/classroom.png"/> **Teaching** Elecmechanic Energy Conversion and Power-Electronics-Related Stuff
+* <img height="32em" align="center" src="https://img.icons8.com/ios-filled/50/000000/science-application.png"/> **Researching** on Photovoltaic and Wind Systems, Power-Electronics Modeling and Control, etc
+* <img height="32em" align="center" src="https://img.icons8.com/ios-filled/50/000000/open-book.png"/> **Learning** Electrical Engineering (always), SimPy, Open Modelica, and Machine Learning
+* <img height="32em" align="center" src="https://img.icons8.com/ios-filled/50/000000/code.png"/> **Coding** Scripts for Power-Electronics Simulations and Analysis, and also Funny Stuff
+* <img height="32em" align="center" src="https://img.icons8.com/ios/50/000000/theme-park.png"/> **Having fun with** Heavy Metal, Pizza, and Beer
+* <img height="32em" align="center" src="https://img.icons8.com/ios-filled/50/000000/effort.png"/> **Struggling with** Multitasking
+
 
 
 
 <br />
 
-### Laguages I deal with
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+<h2> Laguages I deal with </h2>
 
+![C](https://img.shields.io/badge/-C-000000?style=plastic&logo=C&logoColor=lightgray)
+![C++](https://img.shields.io/badge/-C++-000000?style=plastic&logo=C%2B%2B&logoColor=lightgray)
+![Python](https://img.shields.io/badge/-Python-000000?style=plastic&logo=python&logoColor=lightgray)
+![Latex](https://img.shields.io/badge/-LaTex-000000?style=plastic&logo=LaTex&logoColor=lightgray)
+![Matlab](https://img.shields.io/badge/-Matlab-000000?style=plastic&logo=Mathworks&logoColor=lightgray)
+
+<!-- https://simpleicons.org/ -->
 
 <br />
 
+<span id="badgeCont765"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont765&rid=E-3893-2019"></script></span>
 
 
 
@@ -83,3 +100,26 @@ My name is Cleiton Magalhães Freitas and I am a Professor at the Electrical Eng
   <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=cleitoncmf&show_icons=true&theme=dark&line_height=27">
   <img  height="180em"src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cleitoncmf&hide=css,html&theme=dark&line_height=27&layout=compact">
 </p>
+
+<br />
+
+
+
+
+<details>
+  <summary style="font-size:12px">Icons Used in this Profile</summary>
+  <br>
+
+  <a href="https://icons8.com/icon/rdOqayPH_0R7/sala-de-aula">Sala de aula icon by Icons8</a>
+
+  <a href="https://icons8.com/icon/24767/aplicação-de-ciência">Aplicação de Ciência icon by Icons8</a>
+
+  <a href="https://icons8.com/icon/38390/livro-aberto">Livro Aberto icon by Icons8</a>
+
+  <a href="https://icons8.com/icon/7692/código">Código icon by Icons8</a>
+
+  <a href="https://icons8.com/icon/56042/parque-temático">Parque temático icon by Icons8</a>
+
+  <a href="https://icons8.com/icon/64470/esforço">Esforço icon by Icons8</a>
+
+</details>
