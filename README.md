@@ -9,20 +9,10 @@
 
   <p align="center">
     <a href=https://www.researchgate.net/profile/Cleiton_Freitas alt="Research Gate"><img src=https://github.com/cleitoncmf/cleitoncmf/blob/master/Images/ResearchGate25x25.svg></a>
-  </p>
-  <p align="center">
     <a href=https://www.mendeley.com/profiles/cleiton-freitas3/ alt="Mendeley"><img src=https://github.com/cleitoncmf/cleitoncmf/blob/master/Images/Mendeley25x25.svg></a>
-  </p>
-  <p align="center">
     <a href=https://scholar.google.com.br/citations?user=Nq_YDvIAAAAJ&hl=pt-BR&oi=ao alt="Google Scholar"><img src=https://github.com/cleitoncmf/cleitoncmf/blob/master/Images/GoogleScholar25x25.svg></a>
-  </p>  
-  <p align="center">
     <a href=http://lattes.cnpq.br/8580465355265899 alt="Lattes"><img src=https://github.com/cleitoncmf/cleitoncmf/blob/master/Images/Lattes25x25.svg></a>
-  </p>
-  <p align="center">
     <a href=https://publons.com/a/1561461/ alt="Publons"><img src=https://github.com/cleitoncmf/cleitoncmf/blob/master/Images/Publons25x25.svg></a>
-  </p>
-  <p align="center">
     <a href=https://orcid.org/0000-0002-6300-0521 alt="Orcid"><img src=https://github.com/cleitoncmf/cleitoncmf/blob/master/Images/Orcid25x25.svg></a>
   </p>
 </p>
