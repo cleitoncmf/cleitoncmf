@@ -33,7 +33,10 @@
 
 ### Hi there 👋
 
-My name is Cleiton Magalhães Freitas and I am a Professor at the Electrical Engineering Department of the State University of Rio de Janeiro [UERJ](https://www.uerj.br/) in Brazil. 
+My name is Cleiton Magalhães Freitas and I am a Professor at the Electrical Engineering Department of the State University of Rio de Janeiro [UERJ](https://www.uerj.br/) in Brazil. My research interests span over several branches of power electronics and power systems and, of course, this profile might be filled with codes related to them. 
+
+
+
 
 <br />
 <br />
