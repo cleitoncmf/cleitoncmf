@@ -60,7 +60,7 @@ My name is Cleiton Magalhães Freitas and I am a Professor at the Electrical Eng
 
 
 
-<br />
+
 <br />
 
 ### Laguages I deal with
@@ -69,3 +69,17 @@ My name is Cleiton Magalhães Freitas and I am a Professor at the Electrical Eng
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
+
+<br />
+
+
+
+
+<h2> github Stats!!</h2>
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=cleitoncmf&show_icons=true&theme=dark&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cleitoncmf&hide=css,html&theme=dark&line_height=27&layout=compact">
+</p>
