@@ -75,11 +75,11 @@ My name is Cleiton Magalhães Freitas and I am a Professor at the Electrical Eng
 
 
 
-<h2> github Stats!!</h2>
+<h2> Github Status!!</h2>
 
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=cleitoncmf&show_icons=true&theme=dark&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cleitoncmf&hide=css,html&theme=dark&line_height=27&layout=compact">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=cleitoncmf&show_icons=true&theme=dark&line_height=27">
+  <img  height="180em"src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cleitoncmf&hide=css,html&theme=dark&line_height=27&layout=compact">
 </p>
