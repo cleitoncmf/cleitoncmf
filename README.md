@@ -41,4 +41,7 @@ My name is Cleiton Magalhães Freitas and I am a Professor at the Electrical Eng
 <br />
 <br />
 
+### Laguages I deal with
+
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 
