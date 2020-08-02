@@ -31,7 +31,9 @@
 [6.2]: https://github.com/cleitoncmf/cleitoncmf/blob/master/Images/Orcid25x25.svg (Orcid)
 
 
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+<h2> Hey there!</h2>
 
 My name is Cleiton Magalhães Freitas and I am a Professor at the Electrical Engineering Department of the State University of Rio de Janeiro [UERJ](https://www.uerj.br/) in Brazil. My research interests span over several branches of power electronics and power systems and, of course, this profile might be filled with codes related to them. 
 
@@ -44,4 +46,6 @@ My name is Cleiton Magalhães Freitas and I am a Professor at the Electrical Eng
 ### Laguages I deal with
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
