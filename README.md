@@ -88,7 +88,11 @@ My name is Cleiton Magalhães Freitas and I am a Professor at the Electrical Eng
 
 <br />
 
-<span id="badgeCont765"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont765&rid=E-3893-2019"></script></span>
+
+<span id="badgeCont765"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont765&rid=E-3893-2019">
+</script></span>
+
+
 
 
 
