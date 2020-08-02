@@ -3,8 +3,7 @@
 
 
 
-
-[![ResearchGate][1.2]][1] [![Mendeley][2.2]][2] [![Scholar][3.2]][3] [![Lattes][4.2]][4] [![Publons][5.2]][5]
+[![ResearchGate][1.2]][1] [![Mendeley][2.2]][2] [![Scholar][3.2]][3] [![Lattes][4.2]][4] [![Publons][5.2]][5] 
  
 
 [1]: https://www.researchgate.net/profile/Cleiton_Freitas
@@ -23,7 +22,7 @@
 
 [3.2]: https://github.com/cleitoncmf/cleitoncmf/blob/master/badges/icons8-google-scholar.svg (Google Scholar)
 
-[4.2]: https://github.com/cleitoncmf/cleitoncmf/blob/master/badges/Lattes32.svg (Lattes) 
+[4.2]: https://github.com/cleitoncmf/cleitoncmf/blob/master/badges/lattes25x23.svg  (Lattes) 
 
 [5.2]: https://github.com/cleitoncmf/cleitoncmf/blob/master/badges/Publons32.svg  (Publons) 
 
