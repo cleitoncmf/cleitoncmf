@@ -65,7 +65,7 @@ My name is Cleiton Magalhães Freitas and I am a Professor at the Electrical Eng
 
 * <img height="32em" align="center" src="https://img.icons8.com/carbon-copy/100/000000/classroom.png"/> **Teaching** Elecmechanic Energy Conversion and Power-Electronics-Related Stuff
 * <img height="32em" align="center" src="https://img.icons8.com/ios-filled/50/000000/science-application.png"/> **Researching** on Photovoltaic and Wind Systems, Power-Electronics Modeling and Control, etc
-* <img height="32em" align="center" src="https://img.icons8.com/ios-filled/50/000000/open-book.png"/> **Learning** Electrical Engineering (always), SimPy, Open Modelica, Machine Learning (trying), and so on
+* <img height="32em" align="center" src="https://img.icons8.com/ios-filled/50/000000/open-book.png"/> **Learning** Electrical Engineering (always), SymPy, Open Modelica, Machine Learning (trying), and so on
 * <img height="32em" align="center" src="https://img.icons8.com/ios-filled/50/000000/code.png"/> **Coding** Scripts for Power-Electronics Simulations, Analysis, and control, and also Some Funny Stuff
 * <img height="32em" align="center" src="https://img.icons8.com/ios/50/000000/theme-park.png"/> **Having fun with** Metal, Rick and Morty, Pizza, and Beer
 * <img height="32em" align="center" src="https://img.icons8.com/ios-filled/50/000000/effort.png"/> **Struggling with** Multitasking, Perfectionism, and Household Chores
