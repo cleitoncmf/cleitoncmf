@@ -105,10 +105,12 @@ My name is Cleiton Magalhães Freitas and I am a Professor at the Electrical Eng
 
 
 
-
+<h2>  </h2>
 <details>
   <summary style="font-size:12px">Icons Used in this Profile</summary>
   <br>
+  
+  
 
   <a href="https://icons8.com/icon/rdOqayPH_0R7/sala-de-aula">Sala de aula icon by Icons8</a>
 
