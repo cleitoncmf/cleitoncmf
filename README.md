@@ -4,7 +4,7 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
   <i>“I don't want to believe. I want to know.”</i>
 
   <p align="center">
@@ -14,6 +14,20 @@
     <a href=http://lattes.cnpq.br/8580465355265899 alt="Lattes"><img src=https://github.com/cleitoncmf/cleitoncmf/blob/master/Images/Lattes25x25.svg></a>
     <a href=https://publons.com/a/1561461/ alt="Publons"><img src=https://github.com/cleitoncmf/cleitoncmf/blob/master/Images/Publons25x25.svg></a>
     <a href=https://orcid.org/0000-0002-6300-0521 alt="Orcid"><img src=https://github.com/cleitoncmf/cleitoncmf/blob/master/Images/Orcid25x25.svg></a>
+  </p>
+</p> -->
+
+
+<p align="center">
+  <i>“I don't want to believe. I want to know.”</i>
+
+  <p align="center">
+    <a href=https://www.webofscience.com/wos/author/record/E-3893-2019 alt="Web of Science"><img src=https://github.com/cleitoncmf/cleitoncmf/blob/master/Images/symbols/Clarivate-icon.svg></a>
+    <a href=https://www.researchgate.net/profile/Cleiton_Freitas alt="Research Gate"><img src=https://github.com/cleitoncmf/cleitoncmf/blob/master/Images/symbols/researchgate-svgrepo-com.svg></a>
+    <a href=https://orcid.org/0000-0002-6300-0521 alt="Orcid"><img src=https://github.com/cleitoncmf/cleitoncmf/blob/master/Images/symbols/orcid-svgrepo-com.svg></a>
+    <a href=http://www.eng.uerj.br/deptos/mostra_prof.php?id=338 alt="Site"><img src=https://github.com/cleitoncmf/cleitoncmf/blob/master/Images/symbols/site-svgrepo-com.svg></a>
+    <a href=https://scholar.google.com.br/citations?user=Nq_YDvIAAAAJ&hl=pt-BR&oi=ao alt="Google Scholar"><img src=https://github.com/cleitoncmf/cleitoncmf/blob/master/Images/symbols/google-scholar-svgrepo-com.svg></a>
+    <a href=http://lattes.cnpq.br/8580465355265899 alt="Lattes"><img src=https://github.com/cleitoncmf/cleitoncmf/blob/master/Images/symbols/lattes_cmf.svg></a>    
   </p>
 </p>
 
