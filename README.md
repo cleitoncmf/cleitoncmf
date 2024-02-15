@@ -22,7 +22,7 @@
   <i>“I don't want to believe. I want to know.”</i>
 
   <p align="center">
-    <a href=https://www.webofscience.com/wos/author/record/E-3893-2019 alt="Web of Science"><img src=https://github.com/cleitoncmf/cleitoncmf/blob/master/Images/symbols/Clarivate-icon.svg width="25" margin-right= "100"></a>
+    <a href=https://www.webofscience.com/wos/author/record/E-3893-2019 alt="Web of Science"><img src=https://github.com/cleitoncmf/cleitoncmf/blob/master/Images/symbols/Clarivate-icon.svg width="25" margin="100"></a>
     <a href=https://www.researchgate.net/profile/Cleiton_Freitas alt="Research Gate"><img src=https://github.com/cleitoncmf/cleitoncmf/blob/master/Images/symbols/researchgate-svgrepo-com.svg width="25"></a>
     <a href=https://orcid.org/0000-0002-6300-0521 alt="Orcid"><img src=https://github.com/cleitoncmf/cleitoncmf/blob/master/Images/symbols/orcid-svgrepo-com.svg width="25"></a>
     <a href=http://www.eng.uerj.br/deptos/mostra_prof.php?id=338 alt="Site"><img src=https://github.com/cleitoncmf/cleitoncmf/blob/master/Images/symbols/site-svgrepo-com.svg width="25"></a>
